@@ -1,2 +1,2 @@
 # grm-tmp
-tmp-repository-for-geo-redundency
+this is a temporary repository for geo-redundency prototype
